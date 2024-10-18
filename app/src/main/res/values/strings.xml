@@ -1,0 +1,8 @@
+<resources>
+    <string name="input_data_mahasiswa">Input Data Mahasiswa</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_nim">Masukkan NIM</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="app_name">TugasPAP3</string> <!-- Tambahkan nama aplikasi di sini -->
+</resources>
